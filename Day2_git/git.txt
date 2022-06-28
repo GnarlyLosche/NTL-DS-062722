@@ -1,6 +1,8 @@
 Let's go over some common git commands!
 ---------------------------------------
 
+Here's me trying to change a fil on git! Trying to change the document
+
 1. Find a repo you're interested in having your own version of.
 
 2. Fork it (click the button) to create in the cloud a new copy of the repo.
